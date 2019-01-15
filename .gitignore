@@ -2,4 +2,8 @@
 
 *.txt
 *.OLD
-fscommands 
+fscommands
+*~
+*#
+*.BACKUP
+
