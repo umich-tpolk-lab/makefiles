@@ -1,1 +1,5 @@
 #These are the files we told Git to ignore (i.e., to not track)
+
+*.txt
+*.OLD
+fscommands 
